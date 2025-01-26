@@ -1,4 +1,4 @@
-# IBM AI Engineering Professional Certificate - Course 1: Machine Learning with Python
+# Course 1: Machine Learning with Python
 
 This repository contains Python notebooks, data, and annotations taken by me during the "Machine Learning with Python" course, which is part of the IBM AI Engineering Professional Certificate specialization on Coursera.
 
