@@ -24,3 +24,11 @@ Thumbs.db
 # Ignore IDE specific files
 .vscode/
 .idea/
+
+# Data
+data/
+.tif
+.jpg
+.png
+.csv
+.xlsx
